@@ -14,14 +14,14 @@
 
 ### Измененя внесены:
 
-✅ [logistic/settings.py](https://github.com/Nikolay08041979/django_project-2/blob/master/1.2-requests-templates/recipes/calculator/views.py)
+✅ [stocks_products/settings.py](https://github.com/Nikolay08041979/dj_CRUD_DRF/blob/master/3.2-crud/stocks_products/stocks_products/settings.py)
 
-✅ [logistic/admin.py](https://github.com/Nikolay08041979/django_project-2/blob/master/1.2-requests-templates/recipes/calculator/views.py)
+✅ [logistic/admin.py](https://github.com/Nikolay08041979/dj_CRUD_DRF/blob/master/3.2-crud/stocks_products/logistic/admin.py)
 
-✅ [logistic/views.py](https://github.com/Nikolay08041979/django_project-2/blob/master/1.2-requests-templates/recipes/calculator/views.py)
+✅ [logistic/views.py](https://github.com/Nikolay08041979/dj_CRUD_DRF/blob/master/3.2-crud/stocks_products/logistic/views.py)
 
-✅ [logistic/serializers.py](https://github.com/Nikolay08041979/django_project-2/blob/master/1.2-requests-templates/recipes/recipes/urls.py)
+✅ [logistic/serializers.py](https://github.com/Nikolay08041979/dj_CRUD_DRF/blob/master/3.2-crud/stocks_products/logistic/serializers.py)
 
-✅ [logistic/models.py](https://github.com/Nikolay08041979/django_project-2/blob/master/1.2-requests-templates/recipes/recipes/urls.py)
+✅ [logistic/models.py](https://github.com/Nikolay08041979/dj_CRUD_DRF/blob/master/3.2-crud/stocks_products/logistic/models.py)
 
-✅ [requests-examples.html](https://github.com/Nikolay08041979/django_project-2/blob/master/1.2-requests-templates/recipes/recipes/urls.py)
+✅ [requests-examples.html](https://github.com/Nikolay08041979/dj_CRUD_DRF/blob/master/3.2-crud/stocks_products/requests-examples.http)
